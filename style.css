@@ -49,6 +49,7 @@ span {
   height: 100%;
   display: inline-block;
   position: absolute;
+  text-align: center;
 }
 
 .span1 {

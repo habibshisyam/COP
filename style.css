@@ -165,8 +165,7 @@ span {
   text-align: center;
 }
 h1{
-  display: flex;
-  position: relative;
+  position:fixed;
 }
 
 .spin {

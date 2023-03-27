@@ -65,7 +65,7 @@ function spin() {
   element.classList.remove("animate");
   setTimeout(function () {
     element.classList.add("animate");
-  }, 5000);
+  }, 10000);
 
   // Munculkan Alert
   setTimeout(function () {

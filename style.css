@@ -164,9 +164,6 @@ span {
   transform: rotate(-20deg);
   text-align: center;
 }
-h1{
-  position:relative;
-}
 
 .spin {
   position: absolute;

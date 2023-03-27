@@ -167,7 +167,7 @@ span {
 
 .spin {
   position: absolute;
-  top: calc(50%+20px);
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 75px;
@@ -175,7 +175,7 @@ span {
   border-radius: 50%;
   border: 4px solid white;
   /* background-color: #ff5722; */
-  background-color: #949090;
+  background-color: red;
   color: #fff;
   box-shadow: 0 5px 20px #000;
   font-weight: bold;

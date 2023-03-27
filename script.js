@@ -73,7 +73,7 @@ function spin() {
     swal(
       "Selamat",
       "Anda mendapatkan " + SelectedItem + ".",
-      "Silahkan meminta hadiah kepada Bp. Slamet"
+      "success"
     );
   }, 5500);
 

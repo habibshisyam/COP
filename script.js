@@ -51,13 +51,13 @@ function spin() {
   // console.log(Hasil[0]);
 
   // Ambil value item yang terpilih
-  if (MagicRoaster.includes(Hasil[0])) SelectedItem = "Magic Roaster";
-  if (Sepeda.includes(Hasil[0])) SelectedItem = "Sepeda Aviator";
-  if (RiceCooker.includes(Hasil[0])) SelectedItem = "Rice Cooker Philips";
-  if (LunchBox.includes(Hasil[0])) SelectedItem = "Lunch Box Lock&Lock";
-  if (Sanken.includes(Hasil[0])) SelectedItem = "Air Cooler Sanken";
-  if (Electrolux.includes(Hasil[0])) SelectedItem = "Electrolux Blender";
-  if (JblSpeaker.includes(Hasil[0])) SelectedItem = "JBL Speaker";
+  if (MagicRoaster.includes(Hasil[0])) SelectedItem = "Djarum Super 2 Bungkus";
+  if (Sepeda.includes(Hasil[0])) SelectedItem = "Rokok LA Bold 2 Bungkus";
+  if (RiceCooker.includes(Hasil[0])) SelectedItem = "Le Mineral 1 pcs";
+  if (LunchBox.includes(Hasil[0])) SelectedItem = "Special Gift";
+  if (Sanken.includes(Hasil[0])) SelectedItem = "Kaos";
+  if (Electrolux.includes(Hasil[0])) SelectedItem = "Rokok La Bold 1 Pcs";
+  if (JblSpeaker.includes(Hasil[0])) SelectedItem = "Rokok Djarum 1 Pcs";
 
   // Proses
   box.style.setProperty("transition", "all ease 5s");

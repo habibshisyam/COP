@@ -71,9 +71,9 @@ function spin() {
   setTimeout(function () {
     applause.play();
     swal(
-      "Congratulations",
-      "You Won The " + SelectedItem + ".",
-      "success"
+      "Selamat",
+      "Anda mendapatkan " + SelectedItem + ".",
+      "Silahkan meminta hadiah kepada Bp. Slamet"
     );
   }, 5500);
 
